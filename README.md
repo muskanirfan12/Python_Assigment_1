@@ -1,4 +1,4 @@
-#Unit Converter🌟
+# Unit Converter
 
 A Unit Converter in Python is a simple tool or program that helps us convert one unit of measurement into another — for example:
 
